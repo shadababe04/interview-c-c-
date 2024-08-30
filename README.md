@@ -1,2 +1,2 @@
-# interview-c-c-
+# interview-c-cpp
 interview preparation question
